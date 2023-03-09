@@ -1,0 +1,3 @@
+Este es un tercer archivo de texto.
+Continuamos probando Git/GitHub.
+Ahora ejercitamos ramas.
